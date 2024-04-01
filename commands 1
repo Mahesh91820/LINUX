@@ -1,0 +1,6 @@
+uname
+uname -r
+  uname -a
+  uptime
+hostname
+hotsname -i
